@@ -2,6 +2,8 @@ public class NewFile {
     private int roll;
     private int cg;
 
+    private string address;
+
     public int getRoll
     {
         return roll;

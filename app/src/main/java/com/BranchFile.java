@@ -4,6 +4,7 @@ public class NewFile {
 
     private string roll;
 
+
     public int getRoll
     {
         return roll;

@@ -115,7 +115,5 @@ public class CountryToPhonePrefix {
         country2phone.put("MT", "+356");
         country2phone.put("MH", "+692");
 
-
-
     }
 }

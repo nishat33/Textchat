@@ -2,7 +2,8 @@ public class NewFile {
     private int roll;
     private int cg;
 
-    private string address;
+    private string roll;
+
 
     public int getRoll
     {
